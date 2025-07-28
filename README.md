@@ -4,8 +4,9 @@
 
 📍 Ростов-на-Дону  
 ✉️ Связь со мной:
-Почта: georgiidaek064@gmail.com 
-Telegram: https://t.me/Ender321112
+-Почта: georgiidaek064@gmail.com 
+-Telegram: https://t.me/Ender321112
+
 🔗 [Kaggle] -  | [GitHub] - https://github.com/ender32112
 
 ---
