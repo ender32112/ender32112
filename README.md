@@ -5,7 +5,7 @@
 📍 Ростов-на-Дону  
 ✉️ [georgiidaek064@gmail.com](mailto:georgiidaek064@gmail.com)  
 📱 [Ender321112](https://t.me/Ender321112)  
-📊 [Kaggle](https://www.kaggle.com/)  
+📊 [Kaggle](https://www.kaggle.com/georgiydj)  
 🐱 [GitHub](https://github.com/ender32112)
 
 ---
