@@ -2,27 +2,11 @@
 
 ### Data Analyst/ML-engineer
 
-<div align="center">
-  <a href="https://www.google.com/maps/place/Ростов-на-Дону">
-    <img src="https://img.shields.io/badge/📍_Ростов--на--Дону-181717?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
-  </a>
-  
-  <a href="mailto:georgiidaek064@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  
-  <a href="https://t.me/Ender321112">
-    <img src="https://img.shields.io/badge/📱_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  
-  <a href="https://www.kaggle.com/">
-    <img src="https://img.shields.io/badge/ Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=black" alt="Kaggle">
-  </a>
-  
-  <a href="https://github.com/ender32112">
-    <img src="https://img.shields.io/badge/ GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</div>
+📍 Ростов-на-Дону  
+✉️ [georgiidaek064@gmail.com](mailto:georgiidaek064@gmail.com)  
+📱 [Ender321112](https://t.me/Ender321112)  
+📊 [Kaggle](https://www.kaggle.com/)  
+🐱 [GitHub](https://github.com/ender32112)
 
 ---
 
