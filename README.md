@@ -60,8 +60,8 @@
 
 ## GitHub Статистика
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ваш_логин&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_логин&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ender32112&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ender32112&layout=compact&theme=radical" />
 </div>
 
 ---
@@ -70,5 +70,5 @@
 📊 Готов обсудить проекты, обменяться опытом!
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ваш_логин&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ender32112&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
