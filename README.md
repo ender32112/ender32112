@@ -43,7 +43,7 @@
 ---
 
 ## Проекты
-###  Анализ Рынка Недвижимости Сиэттла
+### 🏠 Анализ Рынка Недвижимости Сиэттла
 Jupyter Notebook, Python, Pandas, Matplotlib, Seaborn, Scikit-learn, Streamlit
 
 * Провёл комплексный анализ данных о продажах недвижимости в округе Кинг (Сиэттл) с 2014 по 2015 год.
@@ -55,11 +55,20 @@ Jupyter Notebook, Python, Pandas, Matplotlib, Seaborn, Scikit-learn, Streamlit
 
 [Ссылка на репозиторий](https://github.com/ender32112/house_analysis_project)
 
+### 💼 Финансовый Менеджер
 
+*Python, PyQt5, SQLAlchemy, PostgreSQL, Telegram Bot API, Scikit-learn*
+
+- Разработал полнофункциональное десктопное приложение для управления личными финансами с графическим интерфейсом на PyQt5.
+- Реализовал систему пользователей с безопасным хешированием паролей (passlib).
+- Спроектировал и внедрил реляционную модель данных (счета, категории, транзакции) с использованием SQLAlchemy ORM и PostgreSQL.
+- Создал Telegram-бота для удобного добавления транзакций и просмотра баланса.
+- Разработал модуль аналитики с визуализацией данных (диаграммы, графики) и элементами машинного обучения (прогнозирование расходов).
+- [Ссылка на репозиторий](https://github.com/ender32112/FinanceManager)
 
 ---
 
-## Мой стек для аналитики
+## Мой стек для 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -70,6 +79,8 @@ Jupyter Notebook, Python, Pandas, Matplotlib, Seaborn, Scikit-learn, Streamlit
 ![Plotly](https://img.shields.io/badge/Plotly-3B5998?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-336699?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![PyQt5](https://img.shields.io/badge/PyQt5-4479A1?style=for-the-badge&logo=PyQt5&logoColor=white)
 
 ---
 
