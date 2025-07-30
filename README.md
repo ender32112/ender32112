@@ -64,7 +64,8 @@ Jupyter Notebook, Python, Pandas, Matplotlib, Seaborn, Scikit-learn, Streamlit
 - Спроектировал и внедрил реляционную модель данных (счета, категории, транзакции) с использованием SQLAlchemy ORM и PostgreSQL.
 - Создал Telegram-бота для удобного добавления транзакций и просмотра баланса.
 - Разработал модуль аналитики с визуализацией данных (диаграммы, графики) и элементами машинного обучения (прогнозирование расходов).
-- [Ссылка на репозиторий](https://github.com/ender32112/FinanceManager)
+
+[Ссылка на репозиторий](https://github.com/ender32112/FinanceManager)
 
 ---
 
