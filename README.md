@@ -43,6 +43,17 @@
 ---
 
 ## Проекты
+###  Анализ Рынка Недвижимости Сиэттла
+Jupyter Notebook, Python, Pandas, Matplotlib, Seaborn, Scikit-learn, Streamlit
+
+* Провёл комплексный анализ данных о продажах недвижимости в округе Кинг (Сиэттл) с 2014 по 2015 год.
+* Выполнил разведочный анализ данных (EDA), визуализировал ключевые зависимости между признаками и ценой дома.
+* Построил и сравнил модели машинного обучения для прогнозирования стоимости недвижимости:
+  * Линейная регрессия (R² = 0.652)
+  * Random Forest Regressor (R² = 0.684)
+* Разработал интерактивный веб-дашборд с помощью Streamlit для демонстрации анализа и работы моделей.
+
+[Ссылка на репозиторий](https://github.com/ender32112/house_analysis_project)
 
 
 
@@ -50,10 +61,15 @@
 
 ## Мой стек для аналитики
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3B5998?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
